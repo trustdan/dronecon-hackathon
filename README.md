@@ -52,6 +52,13 @@ These are older documents related to drones from Bard College. They provide valu
 - [NTSB Advisory on Drones](https://www.ntsb.gov/investigations/process/Documents/NTSB-Advisory-Drones.pdf)
 - [DOT Made Progress Through Its UAS Integration Pilot Program](https://www.oversight.gov/report/DOT/FAA-Made-Progress-Through-Its-UAS-Integration-Pilot-Program-FAA-and-Industry-Challenges)
 - [Everyday Counts EDC 5 UAS Factsheet](https://www.fhwa.dot.gov/innovation/everydaycounts/edc_5/docs/uas-factsheet.pdf)
+- [Voluntary Best Practices for UAS Privacy, Transparency, and Accountability](https://www.ntia.doc.gov/files/ntia/publications/voluntary_best_practices_for_uas_privacy_transparency_and_accountability_0.pdf)
+- [Transportation Tag UAS](https://www.transportation.gov/tags/uas)
+- [UAS Integration](https://www.transportation.gov/uas-integration)
+- [Presidential Memorandum for the Secretary of Transportation](https://www.transportation.gov/briefing-room/presidential-memorandum-secretary-transportation)
+- [DOT and FAA Finalize Rules for Small Unmanned Aircraft Systems](https://www.transportation.gov/briefing-room/dot-and-faa-finalize-rules-small-unmanned-aircraft-systems)
+- [FAA Announces Small UAS Registration Rule](https://www.transportation.gov/briefing-room/faa-announces-small-uas-registration-rule)
+- [US Transportation Secretary Anthony Foxx Announces Unmanned Aircraft Registration](https://www.transportation.gov/briefing-room/us-transportation-secretary-anthony-foxx-announces-unmanned-aircraft-registration-0)
 
 ### DOE
 - [NNSA Principal Deputy Administrator Frank Rose and Associate Administrator Defense](https://catalog.data.gov/dataset/geotagged-low-altitude-aerial-imagery-from-unmanned-aerial-systems-uas-flights-over-of-the-e6d58)
@@ -74,10 +81,6 @@ These are older documents related to drones from Bard College. They provide valu
 - [EPA Unmanned Aircraft Systems (UAS) Policy Handbook](https://www.epa.gov/geospatial/epa-unmanned-aircraft-systems-policy-handbook)
 - [EPA UAS Handbook](https://www.epa.gov/system/files/documents/2023-04/EPA%20UAS%20Handbook.pdf)
 - [EPA UAS Usage Report](https://www.epa.gov/geospatial/epa-uas-usage-report)
-
-### States 
-- [Minnesota Department of Transportation Policy](http://www.dot.minnesota.gov/policy/operations/oe006.html)
-- [North Dakota Department of Commerce: UAS Uses and Benefits](https://www.commerce.nd.gov/economic-development-finance/autonomous-systems/uas-uses-and-benefits)
 
 ### DOJ
 - [U.S. Department of Justice: Unmanned Aircraft Systems](https://www.justice.gov/olp/unmanned-aircraft-systems)
@@ -114,6 +117,11 @@ These are older documents related to drones from Bard College. They provide valu
 - [Safe Handling and Collection of Electronics (SHAKE) Factsheet](https://www.dhs.gov/publication/st-safe-handling-and-collection-electronics-factsheet)
 - [Biometric and Identity Technology Center](https://www.dhs.gov/science-and-technology/MS-TC)
 - [Controlling Our Airspace in the Age of Drones](https://www.dhs.gov/science-and-technology/controlling-our-airspace-age-drones)
+
+### States 
+- [Minnesota Department of Transportation Policy](http://www.dot.minnesota.gov/policy/operations/oe006.html)
+- [North Dakota Department of Commerce: UAS Uses and Benefits](https://www.commerce.nd.gov/economic-development-finance/autonomous-systems/uas-uses-and-benefits)
+
 
 ## Prominent Drone Organizations
 
