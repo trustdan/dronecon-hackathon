@@ -30,7 +30,7 @@ These are older documents related to drones from Bard College. They provide valu
 - [Programs & Partnerships](https://www.faa.gov/uas/programs_partnerships)
 - [UTM Pilot Program](https://www.faa.gov/uas/research_development/traffic_management/utm_pilot_program)
 
-## Military Drone Info and News
+### Military Drone Info and News
 - [Department of Defense Unmanned Aircraft Systems](https://dod.defense.gov/UAS/)
 - [Marines Placing Small UAVs into Ground Combat Element](https://news.usni.org/2020/09/15/marines-placing-small-uavs-into-ground-combat-element-as-aviators-still-refining-large-uas-requirement)
 - [Army News](https://www.dvidshub.net/news/457319/fort-sills-joint-c-suas-university-spearheading-charge-against-drone-threats)
@@ -38,12 +38,82 @@ These are older documents related to drones from Bard College. They provide valu
 - [Fort Sills Joint CSUAS University Spearheading the Charge Against Drone Threats](https://www.army.mil/article/271454/fort_sills_joint_c_suas_university_spearheading_the_charge_against_drone_threats)
 - [Marines Placing Small UAVs into Ground Combat Element as Aviators Still Refining Large UAS Requirement](https://news.usni.org/2020/09/15/marines-placing-small-uavs-into-ground-combat-element-as-aviators-still-refining-large-uas-requirement)
 
-## NASA
+### Small Business Innovation Research
+- [UAS Integration NAS](https://www.sbir.gov/content/uas-integration-nas)
+- [SBIRSTTR 2011 Solicitation](https://sbir.nasa.gov/SBIR/sbirsttr2011/solicitation/index.html)
+
+### NASA
 - [NASA Ames Research Center - Unmanned Aerial Vehicles](https://nari.arc.nasa.gov/)
 
-## NOAA
+### NOAA
 - [NOAA UAS Handbook](https://www.omao.noaa.gov/sites/default/files/documents/NOAA%20UAS%20Handbook.pdf)
 
+### DOT
+- [NTSB Advisory on Drones](https://www.ntsb.gov/investigations/process/Documents/NTSB-Advisory-Drones.pdf)
+- [DOT Made Progress Through Its UAS Integration Pilot Program](https://www.oversight.gov/report/DOT/FAA-Made-Progress-Through-Its-UAS-Integration-Pilot-Program-FAA-and-Industry-Challenges)
+- [Everyday Counts EDC 5 UAS Factsheet](https://www.fhwa.dot.gov/innovation/everydaycounts/edc_5/docs/uas-factsheet.pdf)
+
+### DOE
+- [NNSA Principal Deputy Administrator Frank Rose and Associate Administrator Defense](https://catalog.data.gov/dataset/geotagged-low-altitude-aerial-imagery-from-unmanned-aerial-systems-uas-flights-over-of-the-e6d58)
+- [Geotagged Low Altitude Aerial Imagery from Unmanned Aerial Systems (UAS) Flights over OF THE E6D58](https://www.energy.gov/nnsa/articles/nnsa-principal-deputy-administrator-frank-rose-and-associate-administrator-defense)
+
+### GSA
+- [GSA Unmanned Aircraft Systems (UAS) Policy](https://www.gsa.gov/directives-library/gsa-unmanned-aircraft-systems-uas-policy)
+
+### DOI 
+- [DOI Aviation UAS](https://www.doi.gov/aviation/uas)
+
+### EPA
+- [EPA Unmanned Aircraft Systems (UAS) Program](https://www.epa.gov/geospatial/epa-unmanned-aircraft-systems-uas-program)
+- [EPA Unmanned Aircraft Systems (UAS) Policy Documents](https://www.epa.gov/geospatial/epa-unmanned-aircraft-systems-policy-documents)
+- [EPA Unmanned Aircraft System Factsheet](https://www.epa.gov/sites/default/files/2019-09/documents/epa_unmanned_aircraft_system_factsheet_v1.pdf)
+- [EPA Unmanned Aircraft Systems (UAS) Delegation Memo](https://www.epa.gov/geospatial/unmanned-aircraft-systems-uas-delegation-memo)
+- [EPA IRMPOLI8 Unmanned Aircraft Systems (UAS) Policy](https://www.epa.gov/irmpoli8/unmanned-aircraft-systems-uas-policy)
+- [EPA Unmanned Aircraft Systems (UAS) Policy](https://www.epa.gov/system/files/documents/2022-11/unmanned_aircraft_systems_policy.pdf)
+- [EPA Unmanned Aircraft Systems (UAS) Policy Overview Presentation](https://www.epa.gov/geospatial/epa-unmanned-aircraft-systems-policy-overview-presentation)
+- [EPA Unmanned Aircraft Systems (UAS) Policy Handbook](https://www.epa.gov/geospatial/epa-unmanned-aircraft-systems-policy-handbook)
+- [EPA UAS Handbook](https://www.epa.gov/system/files/documents/2023-04/EPA%20UAS%20Handbook.pdf)
+- [EPA UAS Usage Report](https://www.epa.gov/geospatial/epa-uas-usage-report)
+
+### States 
+- [Minnesota Department of Transportation Policy](http://www.dot.minnesota.gov/policy/operations/oe006.html)
+- [North Dakota Department of Commerce: UAS Uses and Benefits](https://www.commerce.nd.gov/economic-development-finance/autonomous-systems/uas-uses-and-benefits)
+
+### DOJ
+- [U.S. Department of Justice: Unmanned Aircraft Systems](https://www.justice.gov/olp/unmanned-aircraft-systems)
+- [Justice Department Statement on Administration's Counter-Unmanned Aircraft Systems](https://www.justice.gov/opa/pr/justice-department-issues-statement-administration-s-counter-unmanned-aircraft-systems-c-uas)
+- [Department of Justice Forecasts Increase in Counter-Unmanned Aerial Systems Protection](https://www.justice.gov/opa/pr/department-justice-forecasts-increase-counter-unmanned-aerial-systems-c-uas-protection)
+- [Interagency Advisory on Use of Technology to Detect and Mitigate Unmanned Aircraft Systems](https://www.justice.gov/opa/pr/interagency-issues-advisory-use-technology-detect-and-mitigate-unmanned-aircraft-systems)
+- [Justice Department Archives: File 1268401](https://www.justice.gov/archives/ag/page/file/1268401/dl?inline)
+- [Justice Manual: Unmanned Aircraft Systems (UAS)](https://www.justice.gov/jm/9-95000-unmanned-aircraft-systems-uas#9-95.100)
+- [UAS Operations During FY 2022](https://www.justice.gov/d9/pages/attachments/2023/06/06/uas_operations_during_fy_2022.pdf)
+- [DOJ Summary of UAS Operations During FY2021](https://www.justice.gov/d9/pages/attachments/2022/01/20/attachment_b_doj_summary_of_uas_operations_during_fy2021_for_approval_and_public_dissemination.pdf)
+- [Justice Department File 1387071](https://www.justice.gov/ag/page/file/1387071/dl?inline)
+- [Justice Department File 1277646](https://www.justice.gov/ag/page/file/1277646/dl?inline)
+- [COPS Office Publications: Unmanned Aircraft Systems Guide](https://portal.cops.usdoj.gov/resourcecenter/RIC/Publications/cops-w0894-pub.pdf)
+- [National Institute of Justice: Unmanned Aircraft Systems Report](https://www.ojp.gov/pdffiles1/nij/250283.pdf)
+- [Justice Manual: Unmanned Aircraft Systems (UAS) Overview](https://www.justice.gov/jm/9-95000-unmanned-aircraft-systems-uas)
+
+### DHS
+- [Controlling Our Airspace Age Drones](https://www.dhs.gov/science-and-technology/controlling-our-airspace-age-drones)
+- [It's Fair, It's Open, and It's Kind: Welcomed Both Arms](https://www.dhs.gov/science-and-technology/its-fair-its-open-and-its-kind-welcomed-both-arms)
+- [Counter Unmanned Aircraft Systems (C-UAS)](https://www.dhs.gov/science-and-technology/counter-unmanned-aircraft-systems-c-uas)
+- [Seeking Assess Kinetic Mitigation Capabilities Countering Small UAS](https://www.dhs.gov/science-and-technology/news/2023/04/11/st-seeks-assess-kinetic-mitigation-capabilities-countering-small-uas)
+- [Seeking Test Innovative Technologies Counter Dark Small UAS Swarms](https://www.dhs.gov/science-and-technology/news/2023/04/11/st-seeks-test-innovative-technologies-counter-dark-small-uas-swarms)
+- [Drone Piloting Proficiency Takes Flight Certification Course](https://www.dhs.gov/science-and-technology/news/2022/10/13/feature-article-drone-piloting-proficiency-takes-flight-certification-course)
+- [DHS ST Awards $259M Counter Unmanned Aircraft System Threats](https://www.dhs.gov/science-and-technology/news/2022/04/19/dhs-st-awards-259m-counter-unmanned-aircraft-system-threats)
+- [New Release ST Funds Washington Startup Test Metamaterial](https://www.dhs.gov/science-and-technology/news/2021/08/19/new-release-st-funds-washington-startup-test-metamaterial)
+- [Feature Article Drone Popularity and Potential Risk Soars ST Prepares](https://www.dhs.gov/science-and-technology/news/2021/07/16/feature-article-drone-popularity-and-potential-risk-soars-st-prepares)
+- [Snapshot Working NASA Secure Drone Traffic](https://www.dhs.gov/science-and-technology/news/2019/02/12/snapshot-working-nasa-secure-drone-traffic)
+- [Counter Unmanned Aircraft Systems Fact Sheet](https://www.dhs.gov/publication/st-countering-unmanned-aircraft-systems-fact-sheet)
+- [Counter Unmanned Aircraft Systems Legal Authorities Fact Sheet](https://www.dhs.gov/publication/st-counter-unmanned-aircraft-systems-legal-authorities-fact-sheet)
+- [Richmond Counter UAS Testbed Fact Sheet](https://www.dhs.gov/publication/richmond-counter-uas-testbed-fact-sheet)
+- [Safe Handling and Collection Electronics Factsheet](https://www.dhs.gov/publication/st-safe-handling-and-collection-electronics-factsheet)
+- [MS-TC](https://www.dhs.gov/science-and-technology/MS-TC)
+- [Richmond Counter UAS Testbed Fact Sheet](https://www.dhs.gov/science-and-technology/publication/richmond-counter-uas-testbed-fact-sheet)
+- [Safe Handling and Collection of Electronics (SHAKE) Factsheet](https://www.dhs.gov/publication/st-safe-handling-and-collection-electronics-factsheet)
+- [Biometric and Identity Technology Center](https://www.dhs.gov/science-and-technology/MS-TC)
+- [Controlling Our Airspace in the Age of Drones](https://www.dhs.gov/science-and-technology/controlling-our-airspace-age-drones)
 
 ## Prominent Drone Organizations
 
