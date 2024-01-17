@@ -75,7 +75,7 @@ Here are some articles and events related to drones:
 - [Training Every Warfighter For UAS Threats Key To Modern Air Defense](https://www.nationaldefensemagazine.org/articles/2023/11/14/training-every-warfighter-for-uas-threats-key-to-modern-air-defense)
 - [FAA CTI School Directory](https://icao.usmission.gov/more-schools-join-the-collegiate-training-initiative/)
 - [Drone Pilot Ground School](https://www.dronepilotgroundschool.com/faa-uas-cti/)
-- [Five Companies in Early Running for Collaborative Combat Aircraft Contract](https://breakingdefense.com/2023/12/exclusive-5-companies-in-early-running-for-air-forces-cca-drone-wingmen/
+- [Five Companies in Early Running for Collaborative Combat Aircraft Contract](https://breakingdefense.com/2023/12/exclusive-5-companies-in-early-running-for-air-forces-cca-drone-wingmen/)
 - [Awesome Drones](https://github.com/janesmae/awesome-drones)
 
 ## Corporate News
@@ -174,6 +174,11 @@ Here are some articles and events related to drones:
 - [Stormbreaker Lot 9](https://www.rtx.com/raytheon/news/2023/03/23/stormbreaker-lot-9)
 - [Air PhantomStrike](https://www.rtx.com/raytheon/what-we-do/air/phantomstrike)
 
+### Teledyne
+- [Teledyne FLIR Awarded 48 Million Nano UAV Framework Agreement By The Norwegian Defence Materiel Agency](https://www.teledyne.com/en-us/news/Pages/teledyne-flir-awarded-48-million-nano-uav-framework-agreement-by-the-norwegian-defence-materiel-agency.aspx)
+- [Exploring The Oceans Protecting Marine Life](https://www.teledyne.com/everywhereyoulook/exploring-the-oceans-protecting-marine-life)
+- [Building A Multi Domain Unmanned And Autonomous Systems Powerhouse](https://www.teledyne.com/everywhereyoulook/building-a-multi-domain-unmanned-and-autonomous-systems-powerhouse)
+
 ### Textron
 - [Aerosonde Unmanned Aircraft System UAS Takes First Maritime Flight Aboard USS Miguel Keith ESB 5](https://investor.textron.com/news/news-releases/press-release-details/2023/Textron-Systems-Aerosonde-Unmanned-Aircraft-System-UAS-Takes-First-Maritime-Flight-Aboard-USS-Miguel-Keith-ESB-5-/default.aspx)
 - [Uncrewed Aircraft System UAS Contractor Owned Contractor Operated Contract For Three Littoral Combat Ships LCS By U.S. Navy](https://investor.textron.com/news/news-releases/press-release-details/2023/Textron-Systems-Awarded-Uncrewed-Aircraft-System-UAS-Contractor-Owned-Contractor-Operated-Contract-For-Three-Littoral-Combat-Ships-LCS-By-U.S.-Navy/default.aspx)
@@ -181,13 +186,49 @@ Here are some articles and events related to drones:
 - [Selected By U.S. Army For FTUAS Program Option 2](https://investor.textron.com/news/news-releases/press-release-details/2023/Textron-Systems-Selected-By-U.S.-Army--For-FTUAS-Program-Option-2/default.aspx)
 - [Anduril Industries Complete Successful Uncrewed Uncrewed Teaming Demonstration](https://investor.textron.com/news/news-releases/press-release-details/2023/Textron-Systems-and-Anduril-Industries-Complete-Successful-Uncrewed-Uncrewed-Teaming-Demonstration-/default.aspx)
 
-### Teledyne
-- [Teledyne FLIR Awarded 48 Million Nano UAV Framework Agreement By The Norwegian Defence Materiel Agency](https://www.teledyne.com/en-us/news/Pages/teledyne-flir-awarded-48-million-nano-uav-framework-agreement-by-the-norwegian-defence-materiel-agency.aspx)
-- [Exploring The Oceans Protecting Marine Life](https://www.teledyne.com/everywhereyoulook/exploring-the-oceans-protecting-marine-life)
-- [Building A Multi Domain Unmanned And Autonomous Systems Powerhouse](https://www.teledyne.com/everywhereyoulook/building-a-multi-domain-unmanned-and-autonomous-systems-powerhouse)
-
 
 ## Think Tanks, etc.
+
+### Brookings Institution
+- [Six Ways to Disable a Drone](https://www.brookings.edu/articles/six-ways-to-disable-a-drone/)
+- [Death from Above: How Criminal Organizations Use of Drones Threatens Americans](https://www.brookings.edu/articles/death-from-above-how-criminal-organizations-use-of-drones-threatens-americans/)
+- [How Robotic Process and Intelligent Automation Are Altering Government Performance](https://www.brookings.edu/articles/how-robotic-process-and-intelligent-automation-are-altering-government-performance/)
+- [How to Solve the Problem of Missing Drone Crash Data](https://www.brookings.edu/articles/how-to-solve-the-problem-of-missing-drone-crash-data/)
+- [Civilian Drones Privacy and the Federal State Balance](https://www.brookings.edu/articles/civilian-drones-privacy-and-the-federal-state-balance/)
+- [The Lawfare Drone Smackdown](https://www.brookings.edu/articles/the-lawfare-drone-smackdown/)
+- [Loitering Munitions Preview the Autonomous Future of Warfare](https://www.brookings.edu/articles/loitering-munitions-preview-the-autonomous-future-of-warfare/)
+- [Americans Support Exporting Drones to Ukraine with a Caveat](https://www.brookings.edu/articles/americans-support-exporting-drones-to-ukraine-with-a-caveat/)
+- [Drones and Aerial Surveillance Considerations for Legislatures](https://www.brookings.edu/articles/drones-and-aerial-surveillance-considerations-for-legislatures/)
+- [Applying Arms Control Frameworks to Autonomous Weapons](https://www.brookings.edu/articles/applying-arms-control-frameworks-to-autonomous-weapons/)
+- [Cascading Chaos Nonstate Actors and AI on the Battlefield](https://www.brookings.edu/articles/cascading-chaos-nonstate-actors-and-ai-on-the-battlefield/)
+
+### Center for a New American Security
+- [Pentagon Plans a Drone Army to Counter China's Market Dominance](https://www.cnas.org/press/in-the-news/pentagon-plans-a-drone-army-to-counter-chinas-market-dominance)
+- [Anduril's New Drone Killer Is Locked Onto AI-Powered Warfare](https://www.cnas.org/press/in-the-news/andurils-new-drone-killer-is-locked-on-to-ai-powered-warfare)
+- [Russia's New Long-Range Kamikaze Drone Will Be Built in a Shopping Mall](https://www.cnas.org/press/in-the-news/russias-new-long-range-kamikaze-drone-will-be-built-in-a-shopping-mall)
+- [AI and the Next Generation of Drone Warfare](https://www.cnas.org/press/in-the-news/ai-and-the-next-generation-of-drone-warfare)
+- [The War in Ukraine Is Spurring a Revolution in Drone Warfare Using AI](https://www.cnas.org/press/in-the-news/the-war-in-ukraine-is-spurring-a-revolution-in-drone-warfare-using-ai)
+- [Russia Ramps Up Drone-Guided Bomb Attacks to Thwart Counteroffensive](https://www.cnas.org/press/in-the-news/russia-ramps-up-drone-guided-bomb-attacks-to-thwart-counteroffensive)
+- [The US Can't Use Its $110 Million Drone Base in Niger](https://www.cnas.org/press/in-the-news/the-us-cant-use-its-110-million-drone-base-in-niger)
+- [Ground Vehicles Are the New Frontier in Ukraine's Drone War](https://www.cnas.org/press/in-the-news/ground-vehicles-are-the-new-frontier-in-ukraines-drone-war)
+- [Russia Needs More Commercial Drone Pilots for Its War in Ukraine](https://www.cnas.org/press/in-the-news/russia-needs-more-commercial-drone-pilots-for-its-war-in-ukraine)
+- [The Dawn of Drone Diplomacy](https://www.cnas.org/publications/commentary/the-dawn-of-drone-diplomacy)
+- [Russia's Sirius Prototype Killer Drone Caught Flying on Camera](https://www.cnas.org/press/in-the-news/russias-sirius-prototype-killer-drone-caught-flying-on-camera)
+- [Drone Explodes Less Than 100 Miles From Moscow As Fear of Strikes Grows](https://www.cnas.org/press/in-the-news/drone-explodes-less-than-100-miles-from-moscow-as-fear-of-strikes-grows)
+- [Rheinmetall Pitches Unmanned Mothership Full of Tiny Attack Drones](https://www.cnas.org/press/in-the-news/rheinmetall-pitches-unmanned-mothership-full-of-tiny-attack-drones)
+- [Russia Is Replicating Iranian Drones and Using Them to Attack Ukraine](https://www.cnas.org/press/in-the-news/russia-is-replicating-iranian-drones-and-using-them-to-attack-ukraine)
+- [Ukrainian Suicide Drone Boats Packed With Bombs Are Threatening Russia's Once Feared Black Sea Fleet and It May Not Be Able to Stop Them](https://www.cnas.org/press/in-the-news/ukrainian-suicide-drone-boats-packed-with-bombs-are-threatening-russias-once-feared-black-sea-fleet-and-it-may-not-be-able-to-stop-them)
+- [The World Is Watching the War in Ukraine Through Drones and It Twists the View of Who Is Winning This Fight](https://www.cnas.org/press/in-the-news/the-world-is-watching-the-war-in-ukraine-through-drones-and-it-twists-the-view-of-who-is-winning-this-fight)
+- [Kamikaze Drones: A New Weapon Brings Power and Peril to the U.S. Military](https://www.cnas.org/press/in-the-news/kamikaze-drones-a-new-weapon-brings-power-and-peril-to-the-u-s-military)
+- [AI Is Already At War](https://www.cnas.org/publications/commentary/ai-is-already-at-war)
+- [Noteworthy DOD Autonomous Weapons Policy](https://www.cnas.org/press/press-note/noteworthy-dod-autonomous-weapons-policy)
+
+### Center for Strategic and International Studies 
+- [Across Drones, AI, and Space: Commercial Tech Flexing Military Muscle in Ukraine](https://www.csis.org/analysis/across-drones-ai-and-space-commercial-tech-flexing-military-muscle-ukraine)
+- [Rethinking the Role of Remotely Crewed Systems in the Future Force](https://www.csis.org/analysis/rethinking-role-remotely-crewed-systems-future-force)
+- [Counterterrorism Sky: How to Think Over the Horizon About Drones](https://www.csis.org/analysis/counterterrorism-sky-how-think-over-horizon-about-drones)
+- [Countering Uncrewed Aerial Systems: A Conversation with General Sean Gainey](https://www.csis.org/events/countering-uncrewed-aerial-systems-conversation-general-sean-gainey)
+- [Can the United States Do More for Ukrainian Air Defense?](https://www.csis.org/analysis/can-united-states-do-more-ukrainian-air-defense)
 
 ### MITRE Corporation 
 - [MITRE Opens Experimentation Range Dedicated Small Uncrewed Aircraft](https://www.mitre.org/news-insights/news-release/mitre-opens-experimentation-range-dedicated-small-uncrewed-aircraft)
@@ -213,3 +254,25 @@ Here are some articles and events related to drones:
 - [Homeland Security](https://www.mitre.org/focus-areas/homeland-security)
 - [SIMEx Overview 2019](https://www.mitre.org/sites/default/files/2021-11/prs-18-4366-simex-overview-2019.pdf)
 - [Aviation Transportation](https://www.mitre.org/focus-areas/aviation-transportation)
+- [Drone Guardians Gamex Tournament](https://gamex.mitre.org/)
+
+### RAND Corporation
+- [Unmanned Aerial Vehicles](https://www.rand.org/topics/unmanned-aerial-vehicles.html)
+- [What the Drone Strikes on the Kremlin Reveal About](https://www.rand.org/pubs/commentary/2023/05/what-the-drone-strikes-on-the-kremlin-reveal-about.html)
+- [Military Drones](https://www.rand.org/topics/military-drones.html)
+- [Can Cheap Drones Be the Answer to Tensions in the Taiwan Strait?](https://www.rand.org/pubs/commentary/2023/06/can-cheap-drones-be-the-answer-to-tensions-in-the-taiwan.html)
+- [Chinese Strategists Evaluate the Use of Kamikaze Drones](https://www.rand.org/pubs/commentary/2023/11/chinese-strategists-evaluate-the-use-of-kamikaze-drones.html)
+- [Military Drones](https://www.rand.org/blog.topic.military-drones.html)
+- [Characterizing the Uncrewed Systems Industrial Base](https://www.rand.org/pubs/research_reports/RRA1474-1.html)
+- [Coast Guard Leans Forward in New UxS Strategy but Faces Significant Challenges](https://www.rand.org/pubs/commentary/2023/05/coast-guard-leans-forward-in-new-uxs-strategy-but-faces.html)
+- [Robots, Drones, and AI, Oh My: Navigating the New Frontier](https://www.rand.org/pubs/commentary/2024/01/robots-drones-and-ai-oh-my-navigating-the-new-frontier.html)
+- [Wonder Weapons Will Not Win](https://www.rand.org/pubs/commentary/2022/11/wonder-weapons-will-not-win.html)
+- [Characterizing the Performance of Uncrewed Aircraft Systems](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA500/RRA595-1/RAND_RRA595-1.summary.pdf)
+- [Ukraine's Lessons for the Future of Hybrid Warfare](https://www.rand.org/pubs/commentary/2022/11/ukraines-lessons-for-the-future-of-hybrid-warfare.html)
+- [UFOs Are Not the Only Potential Threat in American Skies](https://www.rand.org/pubs/commentary/2023/07/ufos-are-not-the-only-potential-threat-in-american.html)
+- [Characterizing the Uncrewed Systems Industrial Base](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA1200/RRA1233-5/RAND_RRA1233-5.pdf)
+- [These Technologies Could Defeat China's Missile Barrage](https://www.rand.org/pubs/commentary/2023/08/these-technologies-could-defeat-chinas-missile-barrage.html)
+- [Characterizing the Uncrewed Systems Industrial Base](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA1900/RRA1922-1/RAND_RRA1922-1.pdf)
+- [Air Defense](https://www.rand.org/topics/air-defense.html)
+- [Asymmetric Warfare](https://www.rand.org/topics/asymmetric-warfare.html)
+- [Not The X Files](https://www.rand.org/events/2024/01/not-the-x-files.html)
