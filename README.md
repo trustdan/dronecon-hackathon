@@ -9,31 +9,40 @@ These are older documents related to drones from Bard College. They provide valu
 - [CSD Databook Update - March 2020](https://dronecenter.bard.edu/files/2020/03/CSD-Databook-Update-March-2020.pdf)
 - [CSD Unarmed and Dangerous - March 2020](https://dronecenter.bard.edu/files/2020/03/CSD-Unarmed-and-Dangerous-Web.pdf)
 
+## Government Stuff
 
-## FAA Information
-Various resources and information about unmanned aircraft systems from the Federal Aviation Administration.
-
-- [FAA Unmanned Aircraft Systems](https://www.faa.gov/uas/)
-- [FAA Test Sites](https://www.faa.gov/uas/programs\\_partnerships/test\\_sites)
-- [FAA Partnerships](https://www.faa.gov/uas/programs\\_partnerships)
-- [FAA IPA](https://www.faa.gov/uas/programs\\_partnerships/ipa)
-- [FAA Collegiate Training Initiative](https://www.faa.gov/uas/programs\\_partnerships/collegiate\\_training\\_initiative/UAS-CTI-School-Directory)
+### FAA Information
+- [Collegiate Training Initiative School Directory](https://www.faa.gov/uas/educational_users/collegiate_training_initiative/UAS-CTI-School-Directory)
+- [Commercial UAS](https://www.faa.gov/uas/resources/c_uas)
+- [FAA Beyond](https://www.faa.gov/uas/programs_partnerships/beyond)
+- [FAA C-UAS](https://www.faa.gov/uas/resources/c_uas)
+- [FAA Completed Projects](https://www.faa.gov/uas/programs_partnerships/completed)
+- [FAA Hot Topics](https://www.faa.gov/uas/resources/hot_topics)
+- [FAA Information Papers](https://www.faa.gov/uas/research_development/information_papers)
 - [FAA Jobs for Students](https://www.faa.gov/jobs/students/schools)
-- [FAA Beyond](https://www.faa.gov/uas/programs\\_partnerships/beyond)
-- [FAA Traffic Management Pilot Program](https://www.faa.gov/uas/research\\_development/traffic\\_management/utm\\_pilot\\_program)
-- [FAA Completed Projects](https://www.faa.gov/uas/programs\\_partnerships/completed)
-- [FAA Information Papers](https://www.faa.gov/uas/research\\_development/information\\_papers)
+- [FAA Policy Library](https://www.faa.gov/uas/resources/policy_library)
 - [FAA Resources](https://www.faa.gov/uas/resources)
-- [FAA Hot Topics](https://www.faa.gov/uas/resources/hot\\_topics)
-- [FAA Policy Library](https://www.faa.gov/uas/resources/policy\\_library)
-- [FAA C-UAS](https://www.faa.gov/uas/resources/c\\_uas)
-
+- [FAA Test Sites](https://www.faa.gov/uas/programs_partnerships/test_sites)
+- [FAA Traffic Management Pilot Program](https://www.faa.gov/uas/research_development/traffic_management/utm_pilot_program)
+- [FAA Unmanned Aircraft Systems](https://www.faa.gov/uas/)
+- [Industry Partnership Agreement (IPA)](https://www.faa.gov/uas/programs_partnerships/ipa)
+- [Information Papers](https://www.faa.gov/uas/research_development/information_papers)
+- [Programs & Partnerships](https://www.faa.gov/uas/programs_partnerships)
+- [UTM Pilot Program](https://www.faa.gov/uas/research_development/traffic_management/utm_pilot_program)
 
 ## Military Drone Info and News
 - [Department of Defense Unmanned Aircraft Systems](https://dod.defense.gov/UAS/)
 - [Marines Placing Small UAVs into Ground Combat Element](https://news.usni.org/2020/09/15/marines-placing-small-uavs-into-ground-combat-element-as-aviators-still-refining-large-uas-requirement)
 - [Army News](https://www.dvidshub.net/news/457319/fort-sills-joint-c-suas-university-spearheading-charge-against-drone-threats)
+- [DoD Unmanned Aircraft Systems](https://dod.defense.gov/UAS/)
+- [Fort Sills Joint CSUAS University Spearheading the Charge Against Drone Threats](https://www.army.mil/article/271454/fort_sills_joint_c_suas_university_spearheading_the_charge_against_drone_threats)
+- [Marines Placing Small UAVs into Ground Combat Element as Aviators Still Refining Large UAS Requirement](https://news.usni.org/2020/09/15/marines-placing-small-uavs-into-ground-combat-element-as-aviators-still-refining-large-uas-requirement)
 
+## NASA
+- [NASA Ames Research Center - Unmanned Aerial Vehicles](https://nari.arc.nasa.gov/)
+
+## NOAA
+- [NOAA UAS Handbook](https://www.omao.noaa.gov/sites/default/files/documents/NOAA%20UAS%20Handbook.pdf)
 
 
 ## Prominent Drone Organizations
@@ -77,6 +86,25 @@ Here are some articles and events related to drones:
 - [Drone Pilot Ground School](https://www.dronepilotgroundschool.com/faa-uas-cti/)
 - [Five Companies in Early Running for Collaborative Combat Aircraft Contract](https://breakingdefense.com/2023/12/exclusive-5-companies-in-early-running-for-air-forces-cca-drone-wingmen/)
 - [Awesome Drones](https://github.com/janesmae/awesome-drones)
+- [Drones for Government Agencies: GSA Limits Procurement List to Blue SUAS](https://dronelife.com/2021/01/15/drones-for-government-agencies-gsa-limits-procurement-list-to-blue-suas/)
+- [Blue UAS 2](https://uavcoach.com/blue-uas-2/)
+- [US DOD Five Companies Commercial Drone Production](https://www.army-technology.com/news/us-dod-five-companies-commercial-drone-production/)
+- [Department of Defense Can Now Buy US Manufactured Small Drones From These Five Companies](https://www.c4isrnet.com/unmanned/2020/08/20/department-of-defense-can-now-buy-us-manufactured-small-drones-from-these-five-companies/)
+- [Booz Allen Invests in Drone Detection Company Working With Federal Aviation Administration](https://fedscoop.com/booz-allen-invests-in-drone-detection-company-working-with-federal-aviation-administration/)
+- [Booz Allen Hidden Level Drone](https://dronedj.com/2023/02/22/booz-allen-hidden-level-drone/)
+- [Booz Allen Ventures Invests in Drone Sensing Company Hidden Level](https://potomacofficersclub.com/booz-allen-ventures-invests-in-drone-sensing-company-hidden-level/)
+- [Transform Tactical Training with Immersive Solutions](https://www.boozallen.com/d/insight/blog/transform-tactical-training-with-immersive-solutions.html)
+- [Linking Combat Veterans and Valley Engineers Reveals Drone Technology Wins DOD Contracts VC Cash](https://techcrunch.com/2020/06/08/linking-combat-veterans-and-valley-engineers-reveals-drone-technology-wins-dod-contracts-vc-cash/?guccounter=1)
+- [AUVSIS Partnership for Drone Competitiveness Strengthening the US Drone Industry](https://dronelife.com/2023/11/16/auvsis-partnership-for-drone-competitiveness-strengthening-the-us-drone-industry/)
+- [Trusted Operator Program](https://itre.ncsu.edu/training/aviation/trusted-operator-program/)
+- [AUVSI's XPONENTIAL 2023 Shows Future of Drone Computers](https://www.techbriefs.com/component/content/article/48356-auvsi-s-xponential-2023-shows-future-of-drone-computers)
+- [AAM Drone and UTM Leaders Expect Industry Acceleration Following Passage of FAA Reauthorization](https://www.unmannedairspace.info/latest-news-and-information/aam-drone-and-utm-leaders-expect-industry-acceleration-following-passage-of-faa-reauthorization/)
+- [Unmanned Enabling Technologies LongEndurance](https://www.militaryaerospace.com/uncrewed/article/14223074/unmanned-enabling-technologies-longendurance)
+- [DARPA's Manta Ray Underwater Drone Could Be a Game Changer](https://thedebrief.org/darpas-manta-ray-underwater-drone-could-be-a-game-changer/)
+- [US Darpa Contractors Unmanned Underwater Vehicle Project](https://www.naval-technology.com/news/us-darpa-contractors-unmanned-underwater-vehicle-project/)
+- [Defence Military Unmanned Aerial Systems Establish a Specialised Corps for Operational Excellence](https://www.financialexpress.com/business/defence-military-unmanned-aerial-systems-establish-a-specialised-corps-for-operational-excellence-3362033/)
+- [Edge Showcase Advanced Unmanned Technology Solutions UMEX and Simtex 2024](https://edgegroup.ae/news/edge-showcase-advanced-unmanned-technology-solutions-umex-and-simtex-2024)
+- [Galaxy Unmanned Systems LLC at AIAA SciTech Forum 2024](https://www.suasnews.com/2024/01/galaxy-unmanned-systems-llc-at-aiaa-scitech-forum-2024/)
 
 ## Corporate News
 
