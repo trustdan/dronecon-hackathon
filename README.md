@@ -1,5 +1,8 @@
 # Drone Resources
-This repository contains a collection of resources related to drone technology, including various documents, websites, and initiatives.
+This repo has files related to the Dronecon Hackathon. 
+
+The README (below) contains a collection of resources related to drone technology, including various documents, websites, and initiatives. 
+
 
 ## Old Bard College Files
 
