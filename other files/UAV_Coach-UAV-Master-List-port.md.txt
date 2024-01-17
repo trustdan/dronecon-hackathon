@@ -1,0 +1,761 @@
+Source:
+American Drone Companies: A Master List [New for 2024]
+https://uavcoach.com/american-drone-companies/
+
+
+
+In the last decade, the landscape for American drone companies has changed considerably, with several companies rising to prominence.
+
+In that time we’ve seen prominent drone hardware companies, like 3D Robotics and more recently Skydio, rise quickly only to drop out on the consumer front, succumbing to the might of DJI.
+
+But we’ve also seen dozens of commercial-focused drone companies, like BRINC and Zipline, and now also Skydio, find their footing and succeed.
+
+This master list of American drone companies lists all the companies operating in the U.S. that support the drone industry, including hardware and software companies, drone racing companies, and companies that make accessories for drones.
+
+Also, just a note that our list of American companies that manufacture drones is split into civil, military, and dual use, reflecting the recent upsurge in companies making technology for military applications.
+Master List of Drones Companies
+
+For easy navigation, we’ve organized this master list of American drone companies into categories according to what each company offers.
+
+You can use this table of contents to jump to your category of interest.
+
+    American Drone Companies—Hardware
+    American Drone Companies—Software
+    American Drone Companies—Accessories
+    American Drone Companies—Conferences & Events
+    American Drone Companies—Drone Racing
+    Defunct American Drone Companies / Drone Offerings
+
+Interested in becoming a commercial drone pilot? Learn more about the FAA’s Part 107 certification process here.
+
+Note: This article contains our huge master list of all the American drone companies out there. If you’re looking for a list of the top drone companies in the world, go here. Want to be added to this list? Send an email to: zacc[at]uavcoach[dot]com.
+01 CHAPTER
+American Drone Companies—Hardware
+
+We’ve divided this list of hardware companies based in the U.S. into three categories—Civil (both consumer and commercial drones), Military, and Dual Use (drones that can be used for both Civil and Military purposes).
+
+skydio-x10-night-autonomy
+The Skydio X10 | Credit: Skydio
+Civil American Drone Companies
+
+Action Drone Inc.
+
+An industrial drone solutions company that specializes in custom commercial drones and training services.
+
+    Headquarters: San Diego, CA
+    Website: https://actiondroneusa.com/
+
+Advanced Aircraft
+
+Specializes in the design and manufacture of long-endurance, electric-powered unmanned aerial systems.
+
+    Headquarters: Hampton, VA
+    Website: https://www.advancedaircraftcompany.com/
+
+AgEagle Aerial Systems Inc.
+
+Renowned for its pioneering work in agricultural drone technology.
+
+    Headquarters: Wichita, KS
+    Website: https://ageagle.com/
+
+Airgility
+
+A drone technology company that focuses on drones that can operate in complex environments and creates multi-mission unmanned aerial systems.
+
+    Headquarters: College Park, MD
+    Website: https://www.airgility.co/
+
+Ascent AeroSystems
+
+Designs and manufactures coaxial drones for commercial, industrial, and defense applications.
+
+    Headquarters: Merrimack, NH
+    Website: https://ascentaerosystems.com/
+
+Asylon
+
+A drone automation and security company that specializes in autonomous drone systems for security and surveillance applications.
+
+    Headquarters: Philadelphia, PA
+    Website: https://asylonrobotics.com/
+
+Azur Drones
+
+Leader in autonomous surveillance UAVs, focused on developing drone solutions for security and surveillance.
+
+    Headquarters: Houston, TX
+    Website: https://www.azurdrones.com/
+
+Blue Vigil
+
+Develops tethered drone systems, providing power supply solutions for drones to enable extended flight times.
+
+    Headquarters: Manassas, VA
+    Website: https://www.bluevigil.com/
+
+BRINC Drones
+
+Drone manufacturing company specializing in developing industrial-grade drones primarily for public safety applications.
+
+    Headquarters: Hartford, Connecticut
+    Website: https://brincdrones.com/
+
+Censys Technologies Corporation
+
+Leading developer of beyond visual line of sight (BVLOS) drone technology.
+
+    Headquarters: Daytona Beach, FL
+    Website: https://censystech.com/
+
+Cleo Robotics
+
+Specializes in compact and rugged UAVs designed for safe operation indoors and in confined spaces.
+
+    Headquarters: Boston, MA
+    Website: https://cleorobotics.com/
+
+Dragonfly
+
+Produces drone systems specializing in public safety, aerial photography, and industrial inspection.
+
+    Headquarters: Beverly Hills, CA
+    Website: https://www.dragonflyuas.com/
+
+Drone America
+
+Designs and manufactures medium to large scale autonomous aircraft, specializing in applications like infrastructure and fire survey.
+
+    Headquarters: Reno, NV
+    Website: https://www.droneamerica.com/
+
+Easy Aerial
+
+Specializes in the design, development, and integration of autonomous aerial monitoring solutions.
+
+    Headquarters: Brooklyn, NY
+    Website: https://www.easyaerial.com/
+
+Equinox Innovation Systems
+
+Industry leader in multi-rotor drone technology focused on integrating advanced drone technology for various applications.
+
+    Headquarters: Columbia, MD
+    Website: https://equinoxinnovativesystems.com/
+
+Flyt Aerospace
+
+Focused on building modular payload, long endurance drones.
+
+    Headquarters: San Jose, CA
+    Website: https://www.flytaerospace.com/
+
+Freefly Systems
+
+Known for advanced camera movement systems and drones for cinematography, including big rig drones.
+
+    Headquarters: Woodinville, WA
+    Website: https://freeflysystems.com/
+
+Guardian Agriculture
+
+Develops agricultural drone technology for efficient crop protection.
+
+    Headquarters: Boston, MA
+    Website: https://www.guardian.ag/
+
+Harris Aerial
+
+Develops and manufactures unmanned aerial systems for various applications.
+
+    Headquarters: Tampa, FL
+    Website: https://www.harrisaerial.com/
+
+Inspired Flight
+
+Produces commercial-grade drones for various industrial applications.
+
+    Headquarters: San Luis Obispo, CA
+    Website: https://www.inspiredflight.com/
+
+Impossible Aerospace
+
+Known for electric aircraft and drones with extended flight capabilities.
+
+    Headquarters: Santa Clara, CA
+    Website: https://impossible.aero/
+
+Lite Machines
+
+Designs and manufactures lightweight and compact drones.
+
+    Headquarters: Lafayette, Indiana
+    Website: https://www.litemachines.com/
+
+Redtail UAS
+
+Develops unmanned aircraft systems for commercial and government applications.
+
+    Headquarters: Bakersfield, CA
+    Website: https://www.redtailuas.com/
+
+Skydio
+
+A leader in autonomous drones, known for its AI-driven, obstacle-avoiding technology.
+
+    Headquarters: Redwood City, CA
+    Website: https://www.skydio.com/
+
+Skyfish
+
+Engineers advanced drone systems for infrastructure inspection and measurement.
+
+    Headquarters: Stevensville, Montana
+    Website: https://skyfish.ai/
+
+Skyfront
+
+Specializes in long-endurance hybrid electric drones for commercial, scientific, and government applications.
+
+    Headquarters: Menlo Park, CA
+    Website: https://www.skyfront.com/
+
+Vantage Robotics
+
+Designs and manufactures drones for professional and consumer markets, focusing on portability and ease-of-use.
+
+    Headquarters: San Leandro, CA
+    Website: https://vantagerobotics.com/
+
+Vayu Aerospace
+
+Develops drones for medical delivery, cargo, and logistics applications, with a particular emphasis on humanitarian applications, such as delivering medical supplies to remote areas.
+
+    Headquarters: Ann Arbor, MI
+    Website: https://www.vayuaerospace.com/
+
+Nightingale Security
+
+Offers autonomous drone solutions for security and surveillance applications, enhancing situational awareness.
+
+    Headquarters: Berkeley, CA
+    Website: https://www.nightingalesecurity.com/
+
+Military American Drone Companies
+
+Anduril
+
+Defense technology company focusing on autonomous systems and AI for military applications.
+
+    Headquarters: Irvine, CA
+    Website: https://www.anduril.com/
+
+Lockheed Martin
+
+A global aerospace, defense, security, and advanced technologies company with a portfolio that includes a range of unmanned aerial systems and technologies.
+
+    Headquarters: Bethesda, MD
+    Website: https://www.lockheedmartin.com/
+
+Northrop Grumman
+
+A leading global security company offering innovative systems, products, and solutions in autonomous systems, cybersecurity, C4ISR, and logistics, with a significant presence in the drone and unmanned systems sector.
+
+    Headquarters: Falls Church, VA
+    Website: https://www.northropgrumman.com/
+
+Dual Use American Drone Companies
+
+Aero Systems West
+
+Provides solutions for unmanned aircraft systems (UAS), offering advanced UAV technology for both commercial and defense markets.
+
+    Headquarters: Santa Clara, CA
+    Website: https://asw.ai/
+
+AeroVironment
+
+Technology solutions provider specializing in unmanned aircraft systems and electric transportation solutions, known for innovative and advanced drone technologies used in various sectors including military and commercial.
+
+    Headquarters: Simi Valley, CA
+    Website: https://www.avinc.com/
+
+Altavian
+
+Specializes in manufacturing drones and software for data collection and operations, focusing on commercial and government applications.
+
+    Headquarters: Gainesville, Florida
+    Website: https://www.altavian.com/
+
+American Robotics
+
+Develops automated drone systems integrated with software for data analysis, primarily for agricultural and industrial monitoring.
+
+    Headquarters: Marlborough, MA
+    Website: https://www.american-robotics.com/
+
+Prioria Robotics
+
+Develops advanced unmanned aerial systems for military, civil, and commercial applications.
+
+    Headquarters: Gainesville, FL
+    Website: https://www.prioria.com/
+
+Red Cat
+
+Offers solutions for drone pilots and enterprises to track, review, and manage drone flights. (Red Cat owns Teal Drones, Fat Shark, and Red Cat Propware, which are also included on this list.)
+
+    Headquarters: San Juan, Puerto Rico
+    Website: https://www.redcatpropware.com/
+
+FLIR Systems
+
+Develops technologies that enhance perception and awareness, including thermal imaging systems and sensors for drones and unmanned systems, as well as its own drones.
+
+    Headquarters: Wilsonville, OR
+    Website: https://www.flir.com/
+
+Insitu
+
+Provides unmanned aerial systems and services for commercial, civil, and defense applications, it is known for its ScanEagle and Integrator UAS.
+
+    Headquarters: Bingen, WA
+    Website: https://www.insitu.com/
+
+L3Harris Technologies
+
+Technology company specializing in defense, aviation, and electronic systems, it provides advanced drones and unmanned systems for various applications.
+
+    Headquarters: Melbourne, FL
+    Website: https://www.l3harris.com/
+
+Martin UAV
+
+Develops innovative unmanned aircraft systems for military, government, and commercial use.
+
+    Headquarters: Plano, TX
+    Website: https://martinuav.com/
+
+Swift Tactical Systems
+
+Provides comprehensive unmanned systems solutions for military, government, and commercial clients.
+
+    Headquarters: San Clemente, CA
+    Website: https://www.swifttacticalsystems.com/
+
+Teal Drones
+
+Focuses on creating drones for both consumer and defense applications, with a reputation making rugged, high-performance drones, including drones for night ops.
+
+    Headquarters: Salt Lake City, UT
+    Website: https://www.tealdrones.com/
+
+02 CHAPTER
+American Drone Companies—Software
+
+There is a LOT of software out there to support drone operations.
+
+To organize all of those drone software companies based in the U.S., we’ve divided them into four categories. Keep reading to see the software offerings in each one.
+
+drone-surveying-dronedeploy
+Credit: DroneDeploy
+1. Flight Planning and Management Software
+
+Software focused on assisting drone operators in planning and optimizing flight routes, ensuring safe and efficient drone operations.
+
+Airmap
+
+Provides airspace management tools for drone operators, helping them navigate and operate safely in controlled airspace.
+
+    Headquarters: Santa Monica, CA
+    Website: https://www.airmap.com/
+
+Botlink
+
+Offers drone control and data processing software, with a focus on agricultural and construction sectors, enhancing productivity and efficiency.
+
+    Headquarters: Fargo, ND
+    Website: https://botlink.com/
+
+DroneDeploy
+
+Cloud-based drone mapping and analytics platform that provides solutions for aerial data collection and analysis.
+
+    Headquarters: San Francisco, CA
+    Website: https://www.dronedeploy.com/
+
+Exyn Technologies
+
+Specializes in autonomous flight software for complex environments, enabling drones to navigate and perform tasks in challenging conditions.
+
+    Headquarters: Philadelphia, PA
+    Website: https://www.exyn.com/
+
+Hivemapper
+
+Provides mapping and navigation software for drones, allowing them to create detailed 3D maps and navigate with precision.
+
+    Headquarters: San Francisco, CA
+    Website: https://www.hivemapper.com/
+
+Red Cat Propware
+
+Specializes in developing solutions for data analysis, flight safety, and compliance management for drone operators.
+
+    Headquarters: Orlando, FL
+    Website: https://www.redcatpropware.com/
+
+2. Data Processing and Analysis Software
+
+Software focused on processing aerial data for various applications like construction, insurance, and environmental monitoring.
+
+DroneBase (formerly Zeitview)
+
+Provides drone services for various industries, offering aerial imagery and data solutions.
+
+    Headquarters: Santa Monica, CA
+    Website: https://www.zeitview.com/
+
+3D Robotics (3DR)
+
+Offers solutions for aerial photography, mapping, and inspection, catering to various industries, with an emphasis on construction and infrastructure.
+
+    Headquarters: Berkeley, CA
+    Website: https://3dr.com/
+
+Kespry
+
+Specializes in drone solutions for construction, mining, and insurance, providing valuable aerial data.
+
+    Headquarters: Menlo Park, CA
+    Website: https://www.kespry.com/
+
+EagleView
+
+Provides aerial imagery and data analytics for various industries, helping businesses make informed decisions.
+
+    Headquarters: Bellevue, WA
+    Website: https://www.eagleview.com/
+
+Uplift Data Partners
+Offers drone services for businesses, assisting them in data collection and analysis for informed decision-making.
+
+    Headquarters: Chicago, IL
+    Website: https://www.upliftdatapartners.com/
+
+Unearth
+
+Provides a platform for managing aerial and ground-level data, particularly for construction and real estate projects, streamlining project management.
+
+    Headquarters: Seattle, WA
+    Website: https://www.unearthlabs.com/
+
+3. Software for Specific Applications
+
+Tailored software for detailed inspections in industries like energy, infrastructure, and utilities.
+
+Cape
+
+Specializes in drone software for remote operations and telepresence, enabling businesses to remotely operate drones for various purposes.
+
+    Headquarters: Redwood City, CA
+    Website: https://www.cape.com/
+
+Loveland Innovations
+
+Provides drone-based inspection and data analysis solutions for property and casualty insurance companies.
+
+    Headquarters: Lindon, UT
+    Website: https://www.lovelandinnovations.com/
+
+Raptor Maps
+
+Offers software solutions for aerial inspections and analytics, with a focus on the solar industry for optimizing asset performance.
+
+    Headquarters: Somerville, MA
+    Website: https://www.raptormaps.com/
+
+Sentera
+
+Specializes in drone solutions for agriculture, providing tools for precision farming and crop management.
+
+    Headquarters: Minneapolis, MN
+    Website: https://sentera.com/
+
+Ceres Imaging
+
+Focuses on agricultural drone technology, offering advanced analytics and imagery for optimizing crop production.
+
+    Headquarters: Oakland, CA
+    Website: https://ceresimaging.net/
+
+FarmSolutions
+
+Provides agricultural drone solutions for data collection and analysis, aiding farmers in making informed decisions.
+
+    Headquarters: Durham, NC
+    Website: https://farmsolutions.net/
+
+Conservis
+
+Focused on agricultural drone data management and analysis, assisting farmers in optimizing their operations.
+
+    Headquarters: Minneapolis, MN
+    Website: https://www.conservis.ag/
+
+DroneSeed
+
+Provides software platforms for drone programs and public safety initiatives, with a focus on reforestation.
+
+    Headquarters: Austin, TX
+    Website: https://www.droneseed.co/
+
+SlantRange
+
+Specializes in agricultural analytics and remote sensing, offering solutions for optimizing crop management.
+
+    Headquarters: San Diego, CA
+    Website: https://www.slantrange.com/
+
+Edgybees
+
+Develops augmented reality software for drones, enhancing situational awareness and visual data analysis.
+
+    Headquarters: New York, NY
+    Website: https://www.edgybees.com/
+
+DroneSense
+
+Offers a comprehensive platform for public safety drone operations, assisting agencies in managing and executing missions.
+
+    Headquarters: Austin, TX
+    Website: https://dronesense.com/
+
+FlightWave
+
+Offers software solutions tailored for environmental monitoring and aerospace applications, with a focus on drones.
+
+    Headquarters: Hayward, CA
+    Website: https://www.flightwave.aero/
+
+SkySpecs
+
+Focuses on automated inspection of energy infrastructure, particularly wind turbines, using drone technology.
+
+    Headquarters: Ann Arbor, MI
+    Website: https://www.skyspecs.com/
+
+4. LAANC Providers
+
+These are all companies that provide LAANC services for securing instant airspace authorizations. (Software from these companies also provide other services, such as drone ops management.)
+
+Aloft (formerly Kittyhawk)
+
+Drone operations and fleet management software company that provides tools for drone operators to plan, track, and manage their drone operations efficiently.
+
+    Headquarters: San Francisco, CA
+    Website: https://www.aloft.ai/
+
+Airspace Link
+
+Drone airspace management platform that facilitates safe and compliant drone operations, offering solutions for managing drone traffic and integrating drones into airspace systems.
+
+    Headquarters: Detroit, MI
+    Website: https://airspace.link/
+
+UASidekick
+
+Drone compliance and flight operations platform designed to help drone pilots navigate complex airspace regulations and requirements, offering tools for pre-flight planning and compliance management.
+
+    Headquarters: Dallas, TX
+    Website: https://uasidekick.com/
+
+03 CHAPTER
+American Drone Companies—Accessories
+
+Companies that make products that can be used with drones.
+
+FatShark-Dominator-HD-V3
+Credit: Fat Shark
+
+Fat Shark
+
+Leading manufacturer of FPV (First-Person View) goggles and video systems for drone racing and aerial photography, specializing in immersive and high-quality visual solutions for drone enthusiasts.
+
+    Headquarters: San Francisco, CA
+    Website: https://www.fatshark.com/
+
+Hextronics
+
+Specializes in manufacturing docking stations for charging drone batteries, providing efficient power management solutions.
+
+    Headquarters: Miami, FL
+    Website: https://hextronics.us/
+
+Ouster
+
+Develops advanced LiDAR sensor technology for drones, enabling precise environmental mapping and navigation.
+
+    Headquarters: San Francisco, CA
+    Website: https://www.ouster.com/
+
+Centeye
+
+Focuses on compact vision systems for drones, enhancing their visual perception capabilities for various applications.
+
+    Headquarters: Washington, D.C.
+    Website: http://www.centeye.com/
+
+Go Professional Cases, Inc.
+
+Specializes in designing and manufacturing protective cases for drones and drone accessories, ensuring the safety and portability of drone equipment.
+
+    Headquarters: San Diego, CA
+    Website: https://goprofessionalcases.com/
+
+04 CHAPTER
+American Drone Companies—Conferences & Events
+
+Here are some of the major drone conferences and events that took place in 2023.
+
+networking-commercial-uav-expo
+
+Commercial UAV Expo Americas 2023
+
+Major event for UAV professionals, covering a wide range of topics including construction, drone delivery, energy and utilities, forestry and agriculture, and more.
+
+    Event location: Las Vegas, NV
+    Website: https://www.expouav.com/
+
+7th Energy Drone & Robotics Summit 2023
+
+Focuses on unmanned systems for the energy industry. The event caters to discussions on drones, robotics, and data/AI in energy and industrial operations.
+
+    Event location: Houston, TX
+    Website: https://www.edrcoalition.com/
+
+AUVSI XPONENTIAL 2023
+
+Gathering for leaders and end-users in unmanned systems across various industries. It’s a platform for discussing new technologies and AI/ML advancements.
+
+    Event location: Denver, CO
+    Website: https://www.auvsi.org/events
+
+Geo Week
+An event focused on the intersection of geospatial and the built world, integrating drone data into 3D models across various industries.
+
+    Event location: Denver, CO
+    Website: https://www.geo-week.com/
+
+Emerging Aviation Technologies Thought Leaders’ Summit and Awards
+
+Summit that focuses on emerging aviation technologies, which includes an awards ceremony at the Smithsonian Air and Space Museum.
+
+    Event location: Washington, D.C.
+    Website: https://womenanddrones.com/2023-emerging-aviation-tech-thought-leaders-summit-awards/
+
+05 CHAPTER
+American Drone Companies—Drone Racing
+
+While the Drone Racing League (DRL) dominates in terms of professional, high-profile racing events, we have a thriving drone racing ecosystem in the U.S. and there are a few other companies making strides in this space.
+
+drl-loandepot-park-miami
+Credit: DRL
+
+Drone Racing League (DRL)
+
+The most prominent and well-known drone racing in the U.S., and the world, DRL has gained significant media attention and has partnerships with major sports networks. It hosts professional-level drone racing events and has developed their own racing drones.
+
+    Headquarters: New York, NY
+    Website: https://www.drl.io/
+
+MultiGP Drone Racing
+
+Hosts numerous drone racing events and competitions and has a large community of amateur and semi-professional pilots.
+
+    Headquarters: Fort Pierce, FL
+    Website: https://www.multigp.com/
+
+IDRA (International Drone Racing Association)
+
+Although smaller compared to DRL and MultiGP, IDRA also organizes drone racing competitions and has a global presence.
+
+    Headquarters: Miami, FL
+    Website: https://www.idra.co/
+
+06 CHAPTER
+Defunct American Drone Companies / Drone Offerings
+
+This list includes both entire companies that have closed, like PrecisionHawk, and offerings from companies that have been discontinued, like Intel’s Falcon 8+.
+
+skyward-laanc
+Credit: Skyward
+
+PrecisionHawk
+
+After a meteoric rise, PrecisionHawk filed for bankruptcy in late 2023. It provided drone technology for data collection, processing, and analysis across various industries.
+
+    Last known headquarters: Raleigh, NC
+    Last known website: https://www.precisionhawk.com/
+
+Skyward
+
+Acquired by Verizon, Skyward initially operated independently but later faced changes and restructuring, impacting its original business model.
+
+    Last known headquarters: Portland, OR
+    Last known website: https://www.skyward.io/
+
+Intel’s Falcon 8+
+
+The Intel Falcon 8+ made a huge splash when it was first launched. It was an advanced professional drone designed for industrial and commercial applications, and presented a promising future for autonomous inspection data collection. However, Intel seemed to stop supporting it back in 2020.
+
+    Last known headquarters: Santa Clara, CA
+    Last known website: https://www.intel.com/content/www/us/en/products/sku/98476/intel-falcon-8/specifications.html
+
+Airware
+
+This company, known for its commercial drone operations software, shut down in 2018 after failing to secure sustainable funding and business.
+
+    Last known headquarters: San Francisco, CA
+    Last known website: https://www.airware.com/
+
+Lily Robotics
+This company gained attention for its consumer-focused autonomous drone, but it filed for bankruptcy and ceased operations in 2017.
+
+    Last known headquarters: San Francisco, CA
+    Last known website: None found, but here’s a Wikipedia page on the company
+
+GoPro Karma
+While GoPro is not out of business, their foray into drones with the GoPro Karma was short-lived. They exited the drone market in 2018 after facing challenges with their drone product.
+
+    Last known headquarters: San Mateo, CA
+    Last known website: https://gopro.com/en/us/update/karma-drone
+
+3D Robotics (3DR)
+
+Once a prominent player in the consumer drone market, 3DR shifted its focus from hardware to enterprise software solutions after facing intense competition and financial challenges.
+
+    Last known headquarters: Berkeley, CA
+    Last known website: https://www.3dr.com/
+
+Xtreme Drone Circuit (XDC)
+
+Known for drone racing events, XDC dissolved as the competitive drone racing landscape evolved.
+
+    Last known headquarters: Murrieta, CA
+    Last known website: https://xdcracing.com/
+
+HeliMax
+
+Known for RC helicopters and drones, HeliMax discontinued its drone line as the market evolved and competition intensified.
+
+    Last known headquarters: St. Charles, IL
+    Last known website: None found
+
+CyPhy Works
+
+This drone startup, known for its tethered drones, rebranded as Aria Insights in 2019 and later ceased operations. It initially focused on developing drones for surveillance and reconnaissance.
+
+    Last known headquarters: Danvers, MA
+    Last known website: None found, but here’s an article on the company shutting down
+
