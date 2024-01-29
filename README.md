@@ -640,9 +640,9 @@ Here are some articles and events related to drones:
 | https://www.boozallen.com/expertise/innovation/ventures.html |
 | https://www.boozallen.com/expertise/engineering/unmanned-systems.html |
 
-## 
+## Search results from DOT Repository & Open Science Access Portal (ROSAP), search terms "Drone" and "UAS"
 
-| Search results from DOT Repository & Open Science Access Portal (ROSAP), search terms "Drone" and "UAS" |                                                              |
+|                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ["Drone"](https://rosap.ntl.bts.gov/gsearch?terms=drone)     | ["UAS"](https://rosap.ntl.bts.gov/gsearch?terms=uas&collection=) |
 | [Strategic Deployment of Drone Centers and Fleet Size Planning for Drone Delivery](https://rosap.ntl.bts.gov/view/dot/60874) | [Current Counter-Drone Technology Solutions to Shield Airports and Approach and Departure Corridors](https://rosap.ntl.bts.gov/view/dot/35012) |
